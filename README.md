@@ -2,13 +2,11 @@
 
 - 🐼 19线Java小程序一枚~
 - 👨‍💻 经历：<a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">关于我，19线小程序员</a>
-- 🏡 作品：<a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">编程导航</a> | <a href="https://blog.csdn.net/a870368162/article/details/103068254?spm=1001.2014.3001.5502" target="_blank">Maven仓库提交代码</a> | <a href="https://blog.csdn.net/a870368162/article/details/100660395?spm=1001.2014.3001.5502" target="_blank">博客主页</a> | <a href="https://github.com/liyupi/sql-generator" target="_blank">SQL生成器</a> | <a href="https://github.com/liyupi/mianshiya" target="_blank">面试鸭</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
-- 🌱 干货：<a href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png" target="_blank">公众号『 程序员鱼皮 』</a>
-- 😺 视频：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
-- 💬 微信：yupi1085（请备注事由）
-- 🤔 问题：<a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">知乎 @程序员鱼皮</a>
-- 👭 我的编程知识星球：<a target="_blank" href="https://yupi.icu">帮你学编程、做项目的圈子，可以向我 1 对 1 提问</a>
-- 🛫 万人 ChatGPT 免费交流群：<a target="_blank" href="https://t.zsxq.com/0cb9vuZXi">点击链接加入，把握时代风口</a>
+- 🏡 作品：<a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">编程导航</a> | <a href="https://github.com/a870368162/redis-klock-limiting" target="_blank">分布式锁</a> | <a href="https://github.com/a870368162/redis-klock-limiting" target="_blank">限流</a> | <a href="https://github.com/a870368162/mybatis-generator" target="_blank">生成代码</a> | <a href="https://github.com/a870368162?tab=repositories" target="_blank">学习呀</a> | <a href="https://github.com/a870368162?tab=repositories" target="_blank">免费编程资源大全</a> | <a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">求星星 ✨</a>
+- 🌱 干货：<a href="https://github.com/a870368162?tab=repositories" target="_blank">面试宝典</a>
+- 💬 微信：不能提供
+- 🤔 问题：<a href="https://github.com/a870368162" target="_blank">@Dream</a>
+- 👭 我的编程知识星球：<a target="_blank" href="https://github.com/a870368162">我的Github仓库</a>
 
 
 ## 今年汇总 ✨
