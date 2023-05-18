@@ -1,8 +1,8 @@
 ## 我是Dream 🐟
 
-- 🐧 Java高级工程师
-- 👨‍💻 经历：<a href="https://www.bilibili.com/read/cv11481506" target="_blank">关于我，19 线程序员小 UP</a>
-- 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/sql-father-frontend-public" target="_blank">SQL之父</a> | <a href="https://github.com/liyupi/yuindex" target="_blank">极客范主页</a> | <a href="https://github.com/liyupi/sql-generator" target="_blank">SQL生成器</a> | <a href="https://github.com/liyupi/mianshiya" target="_blank">面试鸭</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
+- 🐼 19线Java小程序一枚~
+- 👨‍💻 经历：<a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">关于我，19线小程序员</a>
+- 🏡 作品：<a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">编程导航</a> | <a href="https://blog.csdn.net/a870368162/article/details/103068254?spm=1001.2014.3001.5502" target="_blank">Maven仓库提交代码</a> | <a href="https://blog.csdn.net/a870368162/article/details/100660395?spm=1001.2014.3001.5502" target="_blank">博客主页</a> | <a href="https://github.com/liyupi/sql-generator" target="_blank">SQL生成器</a> | <a href="https://github.com/liyupi/mianshiya" target="_blank">面试鸭</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
 - 🌱 干货：<a href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png" target="_blank">公众号『 程序员鱼皮 』</a>
 - 😺 视频：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
 - 💬 微信：yupi1085（请备注事由）
@@ -13,4 +13,4 @@
 
 ## 今年汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=a870368162&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
