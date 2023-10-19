@@ -1,9 +1,8 @@
 ## 我是Dream 🙈
 
-- 🐼 19线Java小程序一枚~
-- 👨‍💻 经历：<a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">关于我，19线小程序员</a>
-- 🏡 作品：<a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">编程导航</a> | <a href="https://github.com/a870368162/redis-klock-limiting" target="_blank">分布式锁</a> | <a href="https://github.com/a870368162/redis-klock-limiting" target="_blank">限流</a> | <a href="https://github.com/a870368162/mybatis-generator" target="_blank">生成代码</a> | <a href="https://github.com/a870368162?tab=repositories" target="_blank">学习呀</a> | <a href="https://github.com/a870368162?tab=repositories" target="_blank">免费编程资源大全</a> | <a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">求星星 ✨</a>
-- 🌱 干货：<a href="https://github.com/a870368162?tab=repositories" target="_blank">面试宝典</a>
+- 🐼 18线Java程序一枚~
+- 👨‍💻 经历：<a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">关于我，18线小程序员</a>
+- 🏡 作品：<a href="https://blog.csdn.net/a870368162?type=blog" target="_blank">编程导航</a> | <a href="https://github.com/a870368162/redis-klock-limiting" target="_blank">分布式锁</a> | <a href="https://github.com/a870368162/redis-klock-limiting" target="_blank">限流</a> | <a href="https://github.com/a870368162/mybatis-generator" target="_blank">生成代码</a> | <a href="https://github.com/a870368162?tab=repositories" target="_blank">学习呀</a> | <a href="https://github.com/a870368162?tab=repositories" target="_blank">免费编程资源大全</a> 
 - 💬 微信：不能提供
 - 🤔 问题：<a href="https://github.com/a870368162" target="_blank">@Dream</a>
 - 👭 我的编程知识星球：<a target="_blank" href="https://github.com/a870368162">我的Github仓库</a>
